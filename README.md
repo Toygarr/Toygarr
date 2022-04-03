@@ -1,4 +1,4 @@
-_____
+ _____
 
 | Topics | Available Repositories/Resources |
 | --- | --- |
@@ -11,3 +11,7 @@ _____
 | **YTU CE** | {[Java](https://github.com/Toygarr/Java)}, {[Assembly x8086](https://github.com/Toygarr/Assembly-x8086)}, {[MATLAB](https://github.com/Toygarr/MATLAB)}  | 
 | **Data Structures** | *...incoming*|
 
+
+## About me
+* Long story short, I study computer engineering, and working as undergraduate researcher at Yildiz Technical University. Besides that, I am working as Research Engineer at Optdcom.<br /> 
+* Recently, I help machines understand human language. More developments will be here.<br/> 
