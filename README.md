@@ -13,5 +13,5 @@
 
 
 ## About me
-* Long story short, I study computer engineering, and working as undergraduate researcher at Yildiz Technical University. Besides that, I am working as Research Engineer at Optdcom.<br /> 
+* Long story short, I am studying computer engineering, and working as undergraduate researcher at Yildiz Technical University. Besides that, I am working as Research Engineer at Optdcom.<br /> 
 * Recently, I help machines understand human language. More developments will be here.<br/> 
