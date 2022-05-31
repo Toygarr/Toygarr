@@ -9,7 +9,7 @@
 | **Data Augmentation** | {[Synthetic Text Data Augmentation](https://github.com/Toygarr/synthetic-text-data-augmentation)} | 
 | **C Language Applications** | {[Limits of C Language](https://github.com/Toygarr/c-programming)}| 
 | **YTU CE** | {[Java](https://github.com/Toygarr/Java)}, {[Assembly x8086](https://github.com/Toygarr/Assembly-x8086)}, {[MATLAB](https://github.com/Toygarr/MATLAB)}  | 
-| **Data Structures** | *...incoming*|
+| **Data Structures** | {[DS & Algorithms](https://github.com/Toygarr/data-structures)}|
 
 
 ## About me
