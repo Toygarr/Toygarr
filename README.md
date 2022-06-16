@@ -14,4 +14,4 @@
 
 ## About me
 * Long story short, I am studying computer science, and working as undergraduate researcher at Yildiz Technical University. Besides that, I am working as Research Engineer at Optdcom.<br /> 
-* Recently, I help machines understand human language. More developments will be here.<br/> 
+* Recently, in addition to my undergraduate studies, I am also studying cognitive science and medical neuroscience to contribute actively to human brain research in the future.<br/> 
