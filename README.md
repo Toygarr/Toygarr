@@ -17,9 +17,11 @@
 * Studying on cognition and behavior. 
 * Research for associating cognitive neuroscience and computer science in my mind to approach the cerebral problems from a different point of view.
 
-Interests: <br/>
-Cognitive Science <br/>
-Neuroscience <br/>
-Computer Vision <br/>
-Signal Processing <br/>
-Natural Language Processing <br/>
+**Interests:** <br/>
+```
+Cognitive Science 
+Neuroscience 
+Computer Vision 
+Signal Processing 
+Natural Language Processing 
+```
