@@ -15,7 +15,7 @@
 
 ## About me
 * Studying cognition, behavior, neurobiology and neurophysiology. 
-* Research for associating cognitive neuroscience and computer science in my mind to approach the cerebral problems from a different point of view.
+* Research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective.
 
 **Interests:** <br/>
 ```
