@@ -14,7 +14,7 @@
 
 
 ## About me
-* Studying on cognition, behavior, neurobiology and neurophysiology. 
+* Studying cognition, behavior, neurobiology and neurophysiology. 
 * Research for associating cognitive neuroscience and computer science in my mind to approach the cerebral problems from a different point of view.
 
 **Interests:** <br/>
