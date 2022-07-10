@@ -14,14 +14,14 @@
 
 
 ## About me
-* Studying on cognition and behavior. 
+* Studying on cognition, behavior, neurobiology and neurophysiology. 
 * Research for associating cognitive neuroscience and computer science in my mind to approach the cerebral problems from a different point of view.
 
 **Interests:** <br/>
 ```
-Cognitive Science 
-Neuroscience 
-Computer Vision 
-Signal Processing 
-Natural Language Processing 
+Cognitive Science
+Neurophysiology / Neurobiology
+Neural Signal Processing and Analysis
+Computer Vision
+Natural Language Processing
 ```
