@@ -4,7 +4,8 @@ Welcome to the GitHub profile that mostly contains nerdy studies which are acade
 ## About me
 
 * Recently, I do study cognition, behavior, neurobiology and neurophysiology. 
-* I research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective, and also for other unsolved cognitive tasks. 
+* I research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective, and also for other unsolved cognitive tasks.
+* I'm a senior student in Computer Science at Yildiz Technical University.
 
 I try to find my true love in the [Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
 
