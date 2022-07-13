@@ -23,7 +23,7 @@ Computer Vision
 Natural Language Processing
 ```
 
-
+My	strictly confidential plan is that creating a difference in computational cognitive neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. Research is all we need, and being better than yesterday.
 
  _____
 
@@ -31,8 +31,8 @@ Natural Language Processing
 | --- | --- |
 | **Articles** | {[Disaster Analysis](https://github.com/Toygarr/classification-of-disaster-related-tweets)}, {[Sentiment Analysis](https://github.com/Toygarr/Sentiment-Analysis-for-Yemeksepeti-Reviews-in-Turkish/blob/main/Yemeksepeti%20Sentiment%20Analysis%20using%20word2vec%2C%20CNN%20and%20BiLSTM.pdf)}, {[Contextual Model Pipeline](https://github.com/Toygarr/Sentiment-aware-Model-to-Classify-Tweets-in-Real-Time/blob/main/project%20paper/Contextual%20Model%20for%20Sentiment%20Extraction%20from%20Tweets.pdf)}<br/>  {[Language Models and Ethical Risks (Turkish)](https://github.com/Toygarr/Language-Models-and-Ethical-Risks/blob/main/Dil_Modelleri_ve_Etik.pdf)}|
 | **Cognitive Neuroscience** | {[Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience)} |
-| **Natural Language Processing** | {[Yemeksepeti Sentiment Analysis](https://github.com/Toygarr/Sentiment-Analysis-for-Yemeksepeti-Reviews-in-Turkish/blob/main/yemeksepeti-sentiment-analysis.ipynb)}, {[Context-aware Model](https://github.com/Toygarr/Sentiment-aware-Model-to-Classify-Tweets-in-Real-Time/blob/main/sentiment-aware-contextual-model-for-tweets.ipynb)}<br/> {[NLP Implementations from Scratch](https://github.com/Toygarr/nlp-implementations-from-scratch)} |
-| **Computer Vision** | {[Starter Pack](https://github.com/Toygarr/exploring-computer-vision)}, {[ResNet Implementation w/PyTorch](https://github.com/Toygarr/resnet-implementation-for-image-classification/blob/main/resnet-implementation-for-image-classification.ipynb)} |
+| **Natural Language Processing** | {[Yemeksepeti Sentiment Analysis](https://github.com/Toygarr/Sentiment-Analysis-for-Yemeksepeti-Reviews-in-Turkish/blob/main/yemeksepeti-sentiment-analysis.ipynb)}, {[Context-aware Language Model](https://github.com/Toygarr/Sentiment-aware-Model-to-Classify-Tweets-in-Real-Time/blob/main/sentiment-aware-contextual-model-for-tweets.ipynb)}<br/> {[NLP Implementations from Scratch](https://github.com/Toygarr/nlp-implementations-from-scratch)} |
+| **Computer Vision** | {[Starter Pack](https://github.com/Toygarr/exploring-computer-vision)}, {[ResNet Implementation from Scratch](https://github.com/Toygarr/resnet-implementation-for-image-classification/blob/main/resnet-implementation-for-image-classification.ipynb)} |
 | **Machine Learning** | {[Starter Pack](https://github.com/Toygarr/exploring-machine-learning)}, {[Data Preparation](https://github.com/Toygarr/Data-Preparation)} | 
 | **Data Augmentation** | {[Synthetic Text Data Augmentation](https://github.com/Toygarr/synthetic-text-data-augmentation)} | 
 | **C Language Applications** | {[Limits of the C Language](https://github.com/Toygarr/c-programming)}| 
