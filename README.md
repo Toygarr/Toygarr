@@ -23,7 +23,7 @@ Computer Vision
 Natural Language Processing
 ```
 
-My	strictly confidential plan is that creating a difference in computational cognitive neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. Research is all we need, and being better than yesterday.
+My	strictly confidential plan is that creating a difference in computational cognitive neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. <br/> Research is all we need, and being better than yesterday.
 
  _____
 
