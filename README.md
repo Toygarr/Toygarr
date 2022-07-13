@@ -1,3 +1,29 @@
+Welcome to the GitHub profile that mostly contains nerdy studies which are academic articles, artificial intellegence stuff, school things and diary of a nerd who is trying to be involved in actual brain science.
+
+
+## About me
+
+* Recently, I do study cognition, behavior, neurobiology and neurophysiology. 
+* I research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective, and also for other unsolved cognitive tasks. 
+
+I try to find my true love in the [Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
+
+Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works. I really enjoy working with language and visual attention, however, its artificial intelligence part, *in my opinion*, is not exactly providing any baseline or real intuition about how brain process the language. Also, I can say that its roughly same for the computer vision. Even though its fun and enjoyable to work on which address the needs of the world, I am actually curious about the real functioning of cognition at the brain. From my perspective, we need way more intelligent machines, and most of the current studies are not depending on science. **Scale** is not all we need. 
+
+Funnily enough, brain teaches machines about brains to solve its own obscurity. 
+
+
+**My Interests:** <br/>
+```
+Cognitive Science
+Neurophysiology / Neurobiology
+Neural Signal Processing and Analysis
+Computer Vision
+Natural Language Processing
+```
+
+
+
  _____
 
 |   | Available Repositories/Resources |
@@ -11,17 +37,3 @@
 | **C Language Applications** | {[Limits of the C Language](https://github.com/Toygarr/c-programming)}| 
 | **YTU CE** | {[Java](https://github.com/Toygarr/Java)}, {[Assembly x8086](https://github.com/Toygarr/Assembly-x8086)}, {[MATLAB](https://github.com/Toygarr/MATLAB)}  | 
 | **Data Structures** | {[DS & Algorithms](https://github.com/Toygarr/data-structures)}|
-
-
-## About me
-* Studying cognition, behavior, neurobiology and neurophysiology. 
-* Research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective.
-
-**Interests:** <br/>
-```
-Cognitive Science
-Neurophysiology / Neurobiology
-Neural Signal Processing and Analysis
-Computer Vision
-Natural Language Processing
-```
