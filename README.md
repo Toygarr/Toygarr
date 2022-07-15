@@ -1,6 +1,7 @@
 Welcome to the GitHub profile that mostly contains nerdy studies which are academic articles, artificial intellegence stuff, school things and diary of a person who is trying to be involved in actual brain science.
 
 
+
 ## About me
 
 * Recently, I do study cognition, behavior, neurobiology and neurophysiology. 
@@ -8,6 +9,8 @@ Welcome to the GitHub profile that mostly contains nerdy studies which are acade
 * I'm a senior student in Computer Science at Yildiz Technical University.
 
 I try to find my true love in the [Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
+
+```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
 Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works. I really enjoy working with language and visual attention, however, its artificial intelligence part, *in my opinion*, is not exactly providing any baseline or real intuition about how brain process the language. Also, I can say that it's roughly same for the computer vision. Even though it's fun and enjoyable to work on which address the needs of the world, I am actually curious about the real functioning of cognition at the brain. From my perspective, we need way more intelligent machines, and most of the current studies are not depending on science. **Scale** is not all we need. 
 
@@ -24,6 +27,7 @@ Natural Language Processing
 ```
 
 My	strictly confidential plan is that creating a difference in computational cognitive neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. <br/> Research is all we need, and being better than yesterday.
+
 
  _____
 
