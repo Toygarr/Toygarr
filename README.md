@@ -1,4 +1,4 @@
-Welcome to the GitHub profile that mostly contains nerdy studies which are academic articles, artificial intellegence stuff, school things and diary of a person who is trying to be involved in actual brain science.
+Welcome to the GitHub profile that mostly contains studies which are academic papers, ai stuff, school things and diary of a person who is trying to be involved in actual brain science.
 
 
 
