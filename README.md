@@ -12,10 +12,11 @@ I try to find my true love in the [Path of Cognitive Neuroscience](https://githu
 
 ```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
-Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works. I really enjoy working with language and visual attention, however, its artificial intelligence part, *in my opinion*, is not exactly providing any baseline or real intuition about how brain process the language. Also, I can say that it's roughly same for the computer vision. Even though it's fun and enjoyable to work on which address the needs of the world, I am actually curious about the real functioning of cognition at the brain. From my perspective, we need way more intelligent machines, and most of the current studies are not depending on science. **Scale** is not all we need. 
+Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works from perspective of computer science. On the other hand, current literature is mostly depending on scale of models, and *in my opinion*, **scale** is not the thing we need. 
 
-Funnily enough, brain teaches machines about brains to solve its own obscurity. 
+Anyways, I am passionate about to get more knowledge about actual functioning of the brain, but some says, brain won't let people to solve its mistery, who knows...
 
+---
 
 **My Interests:** <br/>
 ```
@@ -25,7 +26,7 @@ Computer Vision
 Natural Language Processing
 ```
 
-My	strictly confidential plan is that creating a difference in computational cognitive neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. <br/> Research is all we need, and being better than yesterday.
+My	strictly confidential plan is that creating a difference in computational neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. <br/> Research is all we need, and being better than yesterday.
 
 
  _____
