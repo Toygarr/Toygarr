@@ -4,8 +4,8 @@ Welcome to the GitHub profile that mostly contains studies which are academic pa
 
 ## About me
 
-* Recently, I do study cognition, behavior, neurobiology and neurophysiology. 
-* I research for associating cognitive neuroscience and computer science to approach the neurodegenerative diseases from a different perspective, and also for other unsolved cognitive tasks.
+* I study and research for behavior, neurobiology and neurophysiology in Tactile Research Laboratory at Boğaziçi University.
+* Specifically, work on spinal cord injuries and gait analyses of rats.
 * I'm a senior student in Computer Science at Yildiz Technical University.
 
 I try to find my true love in the [Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
@@ -19,7 +19,6 @@ Funnily enough, brain teaches machines about brains to solve its own obscurity.
 
 **My Interests:** <br/>
 ```
-Cognitive Science
 Neurophysiology / Neurobiology
 Neural Signal Processing and Analysis
 Computer Vision
