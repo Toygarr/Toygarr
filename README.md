@@ -8,7 +8,7 @@ Welcome to the GitHub profile that mostly contains studies which are academic pa
 * Specifically, work on spinal cord injuries and gait analyses of rats.
 * I'm a senior student in Computer Science at Yildiz Technical University.
 
-I try to find my true love in the [Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
+I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
 
 ```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
@@ -35,7 +35,7 @@ My	strictly confidential plan is that creating a difference in computational neu
 | --- | --- |
 | **Publication** | {[Linguistic-based Data Augmentation Approach for Offensive Language Detection](https://github.com/Toygarr/lingda)}|
 | **Articles** | {[Disaster Analysis](https://github.com/Toygarr/classification-of-disaster-related-tweets)}, {[Sentiment Analysis](https://github.com/Toygarr/Sentiment-Analysis-for-Yemeksepeti-Reviews-in-Turkish/blob/main/Yemeksepeti%20Sentiment%20Analysis%20using%20word2vec%2C%20CNN%20and%20BiLSTM.pdf)}, {[Contextual Model Pipeline](https://github.com/Toygarr/Sentiment-aware-Model-to-Classify-Tweets-in-Real-Time/blob/main/project%20paper/Contextual%20Model%20for%20Sentiment%20Extraction%20from%20Tweets.pdf)}<br/>  {[Language Models and Ethical Risks (Turkish)](https://github.com/Toygarr/Language-Models-and-Ethical-Risks/blob/main/Dil_Modelleri_ve_Etik.pdf)}|
-| **Cognitive Neuroscience** | {[Path of Cognitive Neuroscience](https://github.com/Toygarr/cognitive-neuroscience)} |
+| **Neuroscience** | {[Path of Cognitive Neuroscience](https://github.com/Toygarr/neuroscience)} |
 | **Natural Language Processing** | {[Yemeksepeti Sentiment Analysis](https://github.com/Toygarr/Sentiment-Analysis-for-Yemeksepeti-Reviews-in-Turkish/blob/main/yemeksepeti-sentiment-analysis.ipynb)}, {[Context-aware Language Model](https://github.com/Toygarr/Sentiment-aware-Model-to-Classify-Tweets-in-Real-Time/blob/main/sentiment-aware-contextual-model-for-tweets.ipynb)}<br/> {[NLP Implementations from Scratch](https://github.com/Toygarr/nlp-implementations-from-scratch)} |
 | **Computer Vision** | {[Starter Pack](https://github.com/Toygarr/exploring-computer-vision)}, {[ResNet Implementation from Scratch](https://github.com/Toygarr/resnet-implementation-for-image-classification/blob/main/resnet-implementation-for-image-classification.ipynb)} |
 | **Machine Learning** | {[Starter Pack](https://github.com/Toygarr/exploring-machine-learning)}, {[Data Preparation](https://github.com/Toygarr/Data-Preparation)} | 
