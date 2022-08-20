@@ -6,7 +6,7 @@ Welcome to the GitHub profile that mostly contains studies which are academic pa
 
 * I study and research for behavior, neurobiology and neurophysiology in Tactile Research Laboratory at Boğaziçi University.
 * Specifically, work on spinal cord injuries and gait analyses of rats.
-* I'm a senior student in Computer Science at Yildiz Technical University.
+* I'm a senior student in Computer Engineering at Yildiz Technical University.
 
 I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
 
