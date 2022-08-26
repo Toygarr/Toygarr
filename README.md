@@ -4,7 +4,7 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 
 ## About me
 
-* I study and research on neuroengineering and behavior in Tactile Research Laboratory located in the Institute of Biomedical Engineering at Boğaziçi University.
+* I study and research on neuroengineering and behavior in [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) located in the Institute of Biomedical Engineering at Boğaziçi University.
 * Specifically, work on spinal cord injuries and gait analyses of rats. We realize the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
 * I'm a senior student in Computer Engineering at Yildiz Technical University.
 
