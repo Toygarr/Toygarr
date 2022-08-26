@@ -1,20 +1,20 @@
-Welcome to the GitHub profile that mostly contains studies which are academic papers, ai stuff, school things and diary of a person who is trying to be involved in actual brain science.
+Welcome to the GitHub profile that mostly contains studies which are artificial intelligence, university outputs and diary of a person who is trying to be involved in actual **brain science**.
 
 
 
 ## About me
 
-* I study and research for behavior, neurobiology and neurophysiology in Tactile Research Laboratory at Boğaziçi University.
-* Specifically, work on spinal cord injuries and gait analyses of rats.
+* I study and research on neuroengineering and behavior in Tactile Research Laboratory located in the Institute of Biomedical Engineering at Boğaziçi University.
+* Specifically, work on spinal cord injuries and gait analyses of rats. We realize the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
 * I'm a senior student in Computer Engineering at Yildiz Technical University.
 
-I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). This repository includes my pains, tears and lots of knowledge to help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
+I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). This repository includes my pains, tears and lots of knowledge to may help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
 
 ```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
-Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works from perspective of computer science. On the other hand, current literature is mostly depending on scale of models, and *in my opinion*, **scale** is not the thing we need. 
+Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works from perspective of computer science. On the other hand, current literature decreases the reliability of artificial intelligence research. The main idea of AI stray away from its roots without nobody even realizing the problem.
 
-Anyways, I am passionate about to get more knowledge about actual functioning of the brain, but some says, brain won't let people to solve its mistery, who knows...
+Anyways, I am passionate about to deal with the mysterious structure of the brain and consciousness itself. I believe that brain is complex as much as the enormous universe, and has countless problems and arguments that are awaiting to be solved. 
 
 ---
 
@@ -26,7 +26,7 @@ Computer Vision
 Natural Language Processing
 ```
 
-My	strictly confidential plan is that creating a difference in computational neuroscience. I believe that brain is complex as much as the enormous universe, and has countless uncovered and unknown arguments are awaiting to be solved. <br/> Research is all we need, and being better than yesterday.
+My	strictly confidential plan is that creating a difference in computational neuroscience. <br/> Research is all we need, and being better than yesterday.
 
 
  _____
