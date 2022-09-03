@@ -21,6 +21,7 @@ Anyways, I am passionate about to deal with the mysterious structure of the brai
 **My Interests:** <br/>
 ```
 Neurophysiology / Neurobiology
+Cognitive Science
 Neural Signal Processing and Analysis
 Computer Vision
 Natural Language Processing
