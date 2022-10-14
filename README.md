@@ -13,11 +13,13 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 * Tübitak Research Project titled [Sort Optimization of Training Samples in Machine Learning](https://github.com/projectSOTS) under supervision of Prof. M. Fatih AMASYALI. <br/> ⋅ Worked on various interpolative data augmentation methods for BERT embeddings and distributed learning to decrease training time for curriculum learning.
 * BAP Research Project [Autonomous rover design for extraterrestrial life trace research](https://rover.yildiz.edu.tr). <br/> ⋅ Implemented several real-time object detection models to direct movements of the rover, integrated ROS environment for communication of between camera and mothercard, and created many custom datasets for the task objectives.
 
-```
+---------
+
 I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). 
 This repository includes my pains, tears and lots of knowledge to may help you find a way to start 
 neuroscience as a non-bio background individual. I mostly update daily or in a few days.
-```
+
+---------
 
 ```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
