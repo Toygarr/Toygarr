@@ -2,11 +2,16 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 
 
 
-## About me
+## About Me
 
 * I'm a senior student in Computer Engineering at Yildiz Technical University.
-* I study and research in the labs, [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) and [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/mycompany/) where located in the Institute of Biomedical Eng. at Boğaziçi University and Biomedical Eng. at Yildiz Technical University, respectively. Also work on spinal cord injuries and computational gait analyses of rats. We realized the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
+* I study and research in the lab, [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/mycompany/) at Yildiz Technical University. 
 * I work on diagnosis and prognosis of posterior fossa tumors in children, and adenomyosis and fibroids in women under supervision of Dr. Bilgin Keserci.
+
+### Past Research
+* [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) under supervision of Prof. Burak GÜÇLÜ. <br/> ⋅ Worked on spinal cord injuries and computational gait analyses of rats. Realized the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
+* Tübitak Research Project titled [Sort Optimization of Training Samples in Machine Learning](https://github.com/projectSOTS) under supervision of Prof. M. Fatih AMASYALI. <br/> ⋅ Worked on various interpolative data augmentation methods for BERT embeddings and distributed learning to decrease training time for curriculum learning.
+* BAP Research Project [Autonomous rover design for extraterrestrial life trace research](https://rover.yildiz.edu.tr). <br/> ⋅ Implemented several real-time object detection models to direct movements of the rover, integrated ROS environment for communication of between camera and mothercard, and created many custom datasets for the task objectives.
 
 I try to find my true love in the [Path of Neuroscience](https://github.com/Toygarr/neuroscience). This repository includes my pains, tears and lots of knowledge to may help you find a way to start neuroscience as a non-bio background individual. I mostly update daily or in a few days.
 
