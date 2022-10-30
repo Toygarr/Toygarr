@@ -38,7 +38,7 @@ Neural Signal Processing and Analysis
 Natural Language Processing
 ```
 
-My	strictly confidential plan is that creating a difference in computational neuroscience. <br/> Research is all we need, and being better than yesterday.
+My	strictly confidential plan is that creating a difference in neuroscience. <br/> Research is all we need, and being better than yesterday.
 
 
  _____
