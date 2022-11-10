@@ -6,10 +6,9 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 
 * I'm a senior student in Computer Engineering at Yildiz Technical University.
 * I study and research in the lab, [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/mycompany/) at Yildiz Technical University. 
-* I work on diagnosis and prognosis of posterior fossa tumors in children, and adenomyosis and fibroids in women under supervision of Dr. Bilgin Keserci.
+* I work on 1) diagnosis and prognosis of posterior fossa tumors in children, and adenomyosis and fibroids in women under supervision of Dr. Bilgin Keserci. 2) [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) under supervision of Prof. Burak GÜÇLÜ. <br/> ⋅ Worked on spinal cord injuries and computational gait analyses of rats. Realized the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
 
 ### Past Research
-* [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) under supervision of Prof. Burak GÜÇLÜ. <br/> ⋅ Worked on spinal cord injuries and computational gait analyses of rats. Realized the experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
 * Tübitak Research Project titled [Sort Optimization of Training Samples in Machine Learning](https://github.com/projectSOTS) under supervision of Prof. M. Fatih AMASYALI. <br/> ⋅ Worked on various interpolative data augmentation methods for BERT embeddings and distributed learning to decrease training time for curriculum learning.
 * BAP Research Project [Autonomous rover design for extraterrestrial life trace research](https://rover.yildiz.edu.tr). <br/> ⋅ Implemented several real-time object detection models to direct movements of the rover, integrated ROS environment for communication of between camera and mothercard, and created many custom datasets for the task objectives.
 
