@@ -5,6 +5,7 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 ## About Me
 
 * I'm a senior student in Computer Engineering at Yildiz Technical University.
+* I work on Alzheimer's disease. Specifically, segmentation, classification and survival prediction by utilizing 3D MRI data (ADNI).
 * I study and research in the labs <br/> 1) [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/mycompany/) at Yildiz Technical University under supervision of Dr. Bilgin Keserci. <br/> ⋅ diagnosis and prognosis of posterior fossa tumors in children & adenomyosis and fibroids in women  <br/> 2) [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) at Boğaziçi University under supervision of Prof. Burak GÜÇLÜ. <br/> ⋅ work on spinal cord injuries and computational gait analyses of rats. Realize the pre-clinical experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
 
 ### Past Research
