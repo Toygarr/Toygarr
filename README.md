@@ -4,7 +4,7 @@ Welcome to the GitHub profile that mostly contains studies which are artificial 
 
 ## About Me
 
-* I'm a senior student in Computer Engineering at Yildiz Technical University.
+* I'm a senior student in Computer Engineering at Yıldız Technical University.
 * I work on Alzheimer's disease. <br/> ⋅ classification and progress prediction of MCI patients by utilizing 3D MRI data.
 * I research in the lab [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/) at YTU, under supervision of Dr. Bilgin Keserci. <br/> ⋅ diagnosis and prognosis of posterior fossa brain tumors in children and gynaecological tumors in women.
 
