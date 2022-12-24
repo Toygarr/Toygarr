@@ -53,5 +53,5 @@ My	strictly confidential plan is that creating a difference in neuroscience. <br
 | **Machine Learning** | {[Starter Pack](https://github.com/Toygarr/exploring-machine-learning)}, {[Data Preparation](https://github.com/Toygarr/Data-Preparation)} | 
 | **Data Augmentation** | {[Synthetic Text Data Augmentation](https://github.com/Toygarr/synthetic-text-data-augmentation)} | 
 | **C Language Applications** | {[Limits of the C Language](https://github.com/Toygarr/c-programming)}| 
-| **Data Structures** | {Data Structures and Algorithm Analysis with C](https://github.com/Toygarr/data-structures)}|
+| **Data Structures** | {Data Structures and Algorithm Analysis with C}(https://github.com/Toygarr/data-structures)}|
 | **Others** | {[Java](https://github.com/Toygarr/Java)}, {[Assembly x8086](https://github.com/Toygarr/Assembly-x8086)}, {[MATLAB](https://github.com/Toygarr/MATLAB)}  | 
