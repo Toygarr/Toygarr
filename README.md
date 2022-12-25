@@ -23,7 +23,7 @@ neuroscience as a non-bio background individual. I mostly update daily or in a f
 
 ```"Though this be madness, yet there is method in’t."``` \- *William Shakespeare*
 
-Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works from perspective of computer science. On the other hand, current literature decreases the reliability of artificial intelligence research. The main idea of AI stray away from its roots without nobody even realizing the problem.
+Well, here, repositories are my curious attempts to satisfy my desire of understanding how brain works from perspective of computer science. On the other hand, current literature decreases the reliability of artificial intelligence research. Therefore, new areas are emerged like explainable AI because the main idea of AI stray away from its roots without nobody even realizing the problem.
 
 Anyways, I am passionate about to deal with the mysterious structure of the brain and consciousness itself. I believe that brain is complex as much as the enormous universe, and has countless problems and arguments that are awaiting to be solved. 
 
