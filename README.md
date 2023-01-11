@@ -61,8 +61,6 @@ Neural Signal Processing and Analysis
 Natural Language Processing
 ```
 
-My	strictly confidential plan is that creating a difference in neuroscience. <br/> Research is all we need, and being better than yesterday.
-
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #008000; text-decoration-color: #008000">More about me </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://www.linkedin.com/in/toygar-tanyel/">Linkedin</a></span>
 </pre>
 
