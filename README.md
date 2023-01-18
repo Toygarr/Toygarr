@@ -1,4 +1,4 @@
-Welcome to the GitHub profile that mostly contains studies which are artificial intelligence, computer science and diary of a person who is trying to be involved in actual **brain science**.
+Welcome to the GitHub profile of a person who is trying to be involved in actual **brain science**.
 
 
 
