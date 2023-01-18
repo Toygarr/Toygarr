@@ -1,4 +1,3 @@
-Welcome to the GitHub profile of a person who is trying to be involved in actual **brain science**.
 
 
 
