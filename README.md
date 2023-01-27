@@ -27,8 +27,9 @@
 ## About Me
 
 * I'm a senior student in Computer Engineering at Yıldız Technical University.
-* I work on Alzheimer's disease. <br/> ⋅ classification and progress prediction of MCI patients by utilizing 3D MRI data.
-* I research in the lab [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/) at YTU, under supervision of Dr. Bilgin Keserci. <br/> ⋅ diagnosis and prognosis of posterior fossa brain tumors in children and gynaecological tumors in women.
+* Work on Alzheimer's disease. <br/> ⋅ classification and progress prediction of MCI patients by utilizing 3D MRI data.
+* Work on unconscious bias of human in written language models to reveal new methods, under supervision of Assoc. Prof. Serkan Ayvaz.
+* Research in the lab [IHIRC (Intelligent Healthcare & Innovation Research Centre)](https://www.linkedin.com/company/intelligent-healthcare-and-innovation-research-centre/) at YTU, under supervision of Dr. Bilgin Keserci. <br/> ⋅ diagnosis and prognosis of posterior fossa brain tumors in children and gynaecological tumors in women.
 
 ### Past Research
 * [Tactile Research Laboratory](https://bme.boun.edu.tr/tactile-research-laboratory) at Boğaziçi University under supervision of Prof. Burak GÜÇLÜ. <br/> ⋅ Worked on spinal cord injuries and computational gait analyses of rats. Realize the pre-clinical experiments at [Vivarium](https://lifesci.boun.edu.tr/en/vivarium).
