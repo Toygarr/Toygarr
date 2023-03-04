@@ -26,9 +26,8 @@
 
 ## About Me
 <p align="center">
-<img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222913628-a0e23b04-d842-4a36-ba74-24e306a0548f.png">
-<img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222908085-6c11a7d9-cf52-423b-93ef-610954bcef3f.png">
-<img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222908104-40cdb909-c64b-4779-bfd8-3af37c48ebf4.png">
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/44132720/222913628-a0e23b04-d842-4a36-ba74-24e306a0548f.png">
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/44132720/222913913-31ceda33-aad7-4f76-a9d6-473c938bba2c.png">
 </p>
 
 [Curriculum Vitae](https://github.com/toygarr/toygarr/files/10888701/CVitae_Toygar.pdf)
