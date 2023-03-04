@@ -26,7 +26,7 @@
 
 ## About Me
 <p align="center">
-<img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222908058-9d1f2958-af03-4c94-9f9c-7bab360ee5d1.png">
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222913628-a0e23b04-d842-4a36-ba74-24e306a0548f.png">
 <img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222908085-6c11a7d9-cf52-423b-93ef-610954bcef3f.png">
 <img width="744" alt="image" src="https://user-images.githubusercontent.com/44132720/222908104-40cdb909-c64b-4779-bfd8-3af37c48ebf4.png">
 </p>
