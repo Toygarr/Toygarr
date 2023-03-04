@@ -25,6 +25,5 @@
 </pre>
 
 ## About Me
-
 [Curriculum Vitae](https://github.com/toygarr/toygarr/files/10888701/CVitae_Toygar.pdf)
-
+<image src="https://github.com/toygarr/toygarr/files/10888701/CVitae_Toygar.pdf" width="80%" height="%80"/>
