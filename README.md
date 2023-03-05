@@ -26,9 +26,6 @@
 
 ## About Me
 <p align="center">
-<img width="714" alt="image" src="https://user-images.githubusercontent.com/44132720/222982542-3a4290bc-77d7-48e0-80e9-d78168e2b876.png">
- <img width="714" alt="image" src="https://user-images.githubusercontent.com/44132720/222913913-31ceda33-aad7-4f76-a9d6-473c938bba2c.png">
-
  [Curriculum_Vitae.pdf](https://github.com/toygarr/toygarr/files/10892799/CVitae_Toygar.pdf)
 </p>
 
