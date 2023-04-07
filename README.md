@@ -24,7 +24,5 @@
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/toygarr/image-processing">image processing</a></span>         - <span style="color: #808080; text-decoration-color: #808080">go deeper in img processing</span>
 </pre>
 
-## About Me
-[Curriculum_Vitae.pdf](https://github.com/toygarr/toygarr/files/10892799/CVitae_Toygar.pdf)
 
 
